@@ -32,6 +32,11 @@ int main(){
 	return 0;
 }
 
+//inp:
+//9 4
+//1 4 2 10 2 3 1 0 20
+// 1 bài toán nũa là bắt in ra dãy con có tổng lớn nhât thì mình phải lấy đc vị trí đầu tiên của dãy con thỏa mãn đề bài || out << 3 1 0 20
+
 int main(){
 	int t; cin >> t;
 	while (t--){
